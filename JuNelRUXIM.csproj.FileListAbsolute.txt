@@ -1,0 +1,14 @@
+C:\Users\kelka.WINDOWS10PRO\Documents\JuNelRUXIM\bin\Debug\net9.0\JuNelRUXIM.exe
+C:\Users\kelka.WINDOWS10PRO\Documents\JuNelRUXIM\bin\Debug\net9.0\JuNelRUXIM.deps.json
+C:\Users\kelka.WINDOWS10PRO\Documents\JuNelRUXIM\bin\Debug\net9.0\JuNelRUXIM.runtimeconfig.json
+C:\Users\kelka.WINDOWS10PRO\Documents\JuNelRUXIM\bin\Debug\net9.0\JuNelRUXIM.dll
+C:\Users\kelka.WINDOWS10PRO\Documents\JuNelRUXIM\bin\Debug\net9.0\JuNelRUXIM.pdb
+C:\Users\kelka.WINDOWS10PRO\Documents\JuNelRUXIM\obj\Debug\net9.0\JuNelRUXIM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelka.WINDOWS10PRO\Documents\JuNelRUXIM\obj\Debug\net9.0\JuNelRUXIM.AssemblyInfoInputs.cache
+C:\Users\kelka.WINDOWS10PRO\Documents\JuNelRUXIM\obj\Debug\net9.0\JuNelRUXIM.AssemblyInfo.cs
+C:\Users\kelka.WINDOWS10PRO\Documents\JuNelRUXIM\obj\Debug\net9.0\JuNelRUXIM.csproj.CoreCompileInputs.cache
+C:\Users\kelka.WINDOWS10PRO\Documents\JuNelRUXIM\obj\Debug\net9.0\JuNelRUXIM.dll
+C:\Users\kelka.WINDOWS10PRO\Documents\JuNelRUXIM\obj\Debug\net9.0\refint\JuNelRUXIM.dll
+C:\Users\kelka.WINDOWS10PRO\Documents\JuNelRUXIM\obj\Debug\net9.0\JuNelRUXIM.pdb
+C:\Users\kelka.WINDOWS10PRO\Documents\JuNelRUXIM\obj\Debug\net9.0\JuNelRUXIM.genruntimeconfig.cache
+C:\Users\kelka.WINDOWS10PRO\Documents\JuNelRUXIM\obj\Debug\net9.0\ref\JuNelRUXIM.dll
